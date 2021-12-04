@@ -5,29 +5,29 @@ module.exports = [
     businessName: "PrevalentWare",
     type: "NIT",
     numEmployees: 10,
-    logo: "http://localhost:3000/images/prevalent.png",
+    logo: "/images/prevalent.png",
     status: "pending",
     documents: {
       create: [
         {
           name: "RUT PrevlalentWare",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Logo PrevlalentWare",
-          url: "http://localhost:3000/images/prevalent.png",
+          url: "/images/prevalent.png",
         },
         {
           name: "Acta de constitución PrevlalentWare",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Cámara de Comercio Prevalentwaree",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Otro Documento  Prevalentware",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
       ],
     },
@@ -38,17 +38,17 @@ module.exports = [
     businessName: "Petroleos asociados",
     type: "AT",
     numEmployees: 20,
-    logo: "http://localhost:3000/images/pvr.png",
+    logo: "/images/pvr.png",
     status: "pending",
     documents: {
       create: [
         {
           name: "Petroleos asociados",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Logo PVR S.A.S",
-          url: "http://localhost:3000/images/pvr.png",
+          url: "/images/pvr.png",
         },
       ],
     },
@@ -65,7 +65,7 @@ module.exports = [
       create: [
         {
           name: "RUT Adidas",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Logo Adidas",
@@ -73,15 +73,15 @@ module.exports = [
         },
         {
           name: "Acta de constitución Adidas",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Cámara de Comercio Adidas",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Otro Documento Adidas",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
       ],
     },
@@ -98,7 +98,7 @@ module.exports = [
       create: [
         {
           name: "Nike",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Logo Nike",
@@ -119,7 +119,7 @@ module.exports = [
       create: [
         {
           name: "RUT Apple",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Logo Apple",
@@ -127,15 +127,15 @@ module.exports = [
         },
         {
           name: "Acta de constitución Apple",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Cámara de Comercio Apple",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
         {
           name: "Otro Documento Apple",
-          url: "http://localhost:3000/docs/test_doc.pdf",
+          url: "/docs/test_doc.pdf",
         },
       ],
     },
