@@ -1,0 +1,8 @@
+// /graphql/context.ts
+import prisma from "../lib/prisma";
+
+export async function createContext({ req, res }) {
+  return {
+    prisma,
+  };
+}
